@@ -1,5 +1,5 @@
 # input("dd-mm-yyyy")
-class date_finding:
+class datetofindday:
     def __init__(self,date):
         self.date=date
     def day_finder(self):
